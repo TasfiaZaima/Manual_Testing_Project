@@ -1,5 +1,4 @@
-# Manual_Testing_Project
-# Walmart Web Application - Test Plan
+#  Manual Testing Project (Walmart Web Application)
 
 ## Introduction
 The purpose of this Test Plan is to outline the overall strategy, scope, objectives, and approach for testing the Walmart web application. This document provides a structured approach to ensure the successful verification of core features and modules within the web application, focusing on delivering a high-quality user experience.
